@@ -10,8 +10,8 @@ using WebApiApp.Data;
 namespace WebApiApp.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20220227015649_RankingApp")]
-    partial class RankingApp
+    [Migration("20220227100111_RankingApi")]
+    partial class RankingApi
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

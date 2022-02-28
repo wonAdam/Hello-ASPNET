@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace WebApiApp.Migrations
 {
-    public partial class RankingApp : Migration
+    public partial class RankingApi : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
